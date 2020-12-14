@@ -1,0 +1,30 @@
+.asid .logo a::before{
+	border-top: 4px solid #ec1839;
+	border-left: 4px solid #ec1839;
+	
+}
+
+.asid .logo a::after{
+	border-bottom: 4px solid #ec1839;
+	border-right: 4px solid #ec1839;
+}
+
+.asid .nav li a:hover,
+.about .about-content .about-text h3 span,
+.asid .nav li a.active{
+color :  #ec1839;
+}
+
+.asid .nav-toggler span,
+.btn,
+.section-title h2::before,
+.about .about-content .timeline::before,
+.about .about-content .timeline .timeline-item::before,
+.about .about-content .timeline .timeline-date .fas,
+.section-title h2::after,
+.asid .nav-toggler span::before,
+.asid .nav-toggler span::after,
+.home .intro .social-link a{
+background-color: #ec1839;
+}
+

@@ -1,0 +1,10 @@
+			<div class="row">
+    							<div class="info-item padd-15">
+    								<p> Birthday :  <span> 28 Nouvembre 1995</span></p>
+    								<p> Age :  <span> 25</span></p>
+    								<p> Email :  <span> Abderrahi.akarid@gmail.com</span></p>
+    								<p> WebSite :  <span> wwww.domain.com</span></p>
+    								<p> Degree:  <span> Bechlor Degree</span></p>
+    								<p> Phone:  <span> +2126 87 85 16 84</span></p>
+    							</div>
+    						</div>
